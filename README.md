@@ -13,11 +13,11 @@
 ## 第三步：测试效果
 <a><img src="https://s1.wandougongzhu.cn/s/24/3_a0dfd2.png"/></a>
 
-
 install
 ```bash
 git clone git@github.com:wxkingstar/openai-fine-tuning-ui.git
 cd openai-fine-tuning-ui
 python -m pip install -r requirements.txt
+export OPENAI_API_KEY=sk-jq6ZT2S*********************************
 python run.py
 ```
